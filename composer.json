@@ -1,0 +1,12 @@
+{
+  "name": "dancedirect/crawler-user-agents",
+  "type": "library",
+  "description": "Lists syntactic patterns of HTTP user-agents used by bots/robots/crawlers/spiders.",
+  "homepage": "https://github.com/dancedirect/crawler-user-agents",
+  "authors": [
+    {
+      "name": "Jon Matthews",
+      "email": "jon.matthews@dancedirect.com"
+    }
+  ]
+}
